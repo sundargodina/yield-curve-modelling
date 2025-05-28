@@ -1,4 +1,4 @@
-markdown# Yield Curve Modeling and Interest Rate Derivatives Pricing
+Yield Curve Modeling and Interest Rate Derivatives Pricing
 
 Implementation of Vasicek and Hull-White interest rate models with neural network parameter prediction.
 
