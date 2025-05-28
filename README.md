@@ -13,3 +13,4 @@ Implementation of Vasicek and Hull-White interest rate models with neural networ
 
 ## Usage
 Open `yield_curve_modeling.ipynb` in Jupyter Notebook or Google Colab
+**Note:** The notebook fetches US Treasury data directly from the web.
